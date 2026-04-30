@@ -2,129 +2,129 @@
     {
         "index": 1,
         "name": "澳大利亚",
-        "name_en": "",
+        "name_en": "Australia",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/澳大利亚.jpg"
+        "img": "https://flagcdn.com/w160/au.webp"
     },
     {
         "index": 2,
         "name": "新西兰",
-        "name_en": "",
+        "name_en": "New Zealand",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/新西兰.jpg"
+        "img": "https://flagcdn.com/w160/nz.webp"
     },
     {
         "index": 3,
         "name": "帕劳",
-        "name_en": "",
+        "name_en": "Palau",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/帕劳.jpg"
+        "img": "https://flagcdn.com/w160/pw.webp"
     },
     {
         "index": 4,
         "name": "密克罗尼西亚联邦",
-        "name_en": "",
+        "name_en": "Federated States of Micronesia",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/密克罗尼西亚联邦.jpg"
+        "img": "https://flagcdn.com/w160/fm.webp"
     },
     {
         "index": 5,
         "name": "马绍尔群岛",
-        "name_en": "",
+        "name_en": "Marshall Islands",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/马绍尔群岛.jpg"
+        "img": "https://flagcdn.com/w160/mh.webp"
     },
     {
         "index": 6,
         "name": "瑙鲁",
-        "name_en": "",
+        "name_en": "Nauru",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/瑙鲁.jpg"
+        "img": "https://flagcdn.com/w160/nr.webp"
     },
     {
         "index": 7,
         "name": "巴布亚新几内亚",
-        "name_en": "",
+        "name_en": "Papua New Guinea",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/巴布亚新几内亚.jpg"
+        "img": "https://flagcdn.com/w160/pg.webp"
     },
     {
         "index": 8,
         "name": "所罗门群岛",
-        "name_en": "",
+        "name_en": "Solomon Islands",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/所罗门群岛.jpg"
+        "img": "https://flagcdn.com/w160/sb.webp"
     },
     {
         "index": 9,
         "name": "瓦努阿图",
-        "name_en": "",
+        "name_en": "Vanuatu",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/瓦努阿图.jpg"
+        "img": "https://flagcdn.com/w160/vu.webp"
     },
     {
         "index": 10,
         "name": "图瓦卢",
-        "name_en": "",
+        "name_en": "Tuvalu",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/图瓦卢.jpg"
+        "img": "https://flagcdn.com/w160/tv.webp"
     },
     {
         "index": 11,
         "name": "斐济",
-        "name_en": "",
+        "name_en": "Fiji",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/斐济.jpg"
+        "img": "https://flagcdn.com/w160/fj.webp"
     },
     {
         "index": 12,
         "name": "萨摩亚",
-        "name_en": "",
+        "name_en": "Samoa",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/萨摩亚.jpg"
+        "img": "https://flagcdn.com/w160/ws.webp"
     },
     {
         "index": 13,
         "name": "基里巴斯",
-        "name_en": "",
+        "name_en": "Kiribati",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/基里巴斯.jpg"
+        "img": "https://flagcdn.com/w160/ki.webp"
     },
     {
         "index": 14,
         "name": "汤加",
-        "name_en": "",
+        "name_en": "Tonga",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/汤加.jpg"
+        "img": "https://flagcdn.com/w160/to.webp"
     },
     {
         "index": 15,
         "name": "库克群岛",
-        "name_en": "",
+        "name_en": "Cook Islands",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/库克群岛.jpg"
+        "img": "https://flagcdn.com/w160/ck.webp"
     },
     {
         "index": 16,
         "name": "纽埃",
-        "name_en": "",
+        "name_en": "Niue",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "assets/images/flags/纽埃.jpg"
+        "img": "https://flagcdn.com/w160/nu.webp"
     }
 ]

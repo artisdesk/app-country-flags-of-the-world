@@ -2,393 +2,393 @@
     {
         "index": 1,
         "name": "中国",
-        "name_en": "",
+        "name_en": "China",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/中国.jpg"
+        "img": "https://flagcdn.com/w160/cn.webp"
     },
     {
         "index": 2,
         "name": "巴林",
-        "name_en": "",
+        "name_en": "Bahrain",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/巴林.jpg"
+        "img": "https://flagcdn.com/w160/bh.webp"
     },
     {
         "index": 3,
         "name": "韩国",
-        "name_en": "",
+        "name_en": "South Korea",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/韩国.jpg"
+        "img": "https://flagcdn.com/w160/kr.webp"
     },
     {
         "index": 4,
         "name": "黎巴嫩",
-        "name_en": "",
+        "name_en": "Lebanon",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/黎巴嫩.jpg"
+        "img": "https://flagcdn.com/w160/lb.webp"
     },
     {
         "index": 5,
         "name": "东帝汶",
-        "name_en": "",
+        "name_en": "Timor-Leste",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/东帝汶.jpg"
+        "img": "https://flagcdn.com/w160/tl.webp"
     },
     {
         "index": 6,
         "name": "尼泊尔",
-        "name_en": "",
+        "name_en": "Nepal",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/尼泊尔.jpg"
+        "img": "https://flagcdn.com/w160/np.webp"
     },
     {
         "index": 7,
         "name": "泰国",
-        "name_en": "",
+        "name_en": "Thailand",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/泰国.jpg"
+        "img": "https://flagcdn.com/w160/th.webp"
     },
     {
         "index": 8,
         "name": "巴基斯坦",
-        "name_en": "",
+        "name_en": "Pakistan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/巴基斯坦.jpg"
+        "img": "https://flagcdn.com/w160/pk.webp"
     },
     {
         "index": 9,
         "name": "阿拉伯联合酋长国",
-        "name_en": "",
+        "name_en": "United Arab Emirates",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/阿拉伯联合酋长国.jpg"
+        "img": "https://flagcdn.com/w160/ae.webp"
     },
     {
         "index": 10,
         "name": "不丹",
-        "name_en": "",
+        "name_en": "Bhutan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/不丹.jpg"
+        "img": "https://flagcdn.com/w160/bt.webp"
     },
     {
         "index": 11,
         "name": "阿曼",
-        "name_en": "",
+        "name_en": "Oman",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/阿曼.jpg"
+        "img": "https://flagcdn.com/w160/om.webp"
     },
     {
         "index": 12,
         "name": "阿塞拜疆",
-        "name_en": "",
+        "name_en": "Azerbaijan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/阿塞拜疆.jpg"
+        "img": "https://flagcdn.com/w160/az.webp"
     },
     {
         "index": 13,
         "name": "朝鲜",
-        "name_en": "",
+        "name_en": "North Korea",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/朝鲜.jpg"
+        "img": "https://flagcdn.com/w160/kp.webp"
     },
     {
         "index": 14,
         "name": "菲律宾",
-        "name_en": "",
+        "name_en": "Philippines",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/菲律宾.jpg"
+        "img": "https://flagcdn.com/w160/ph.webp"
     },
     {
         "index": 15,
         "name": "柬埔寨",
-        "name_en": "",
+        "name_en": "Cambodia",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/柬埔寨.jpg"
+        "img": "https://flagcdn.com/w160/kh.webp"
     },
     {
         "index": 16,
         "name": "卡塔尔",
-        "name_en": "",
+        "name_en": "Qatar",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/卡塔尔.jpg"
+        "img": "https://flagcdn.com/w160/qa.webp"
     },
     {
         "index": 17,
         "name": "吉尔吉斯斯坦",
-        "name_en": "",
+        "name_en": "Kyrgyzstan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/吉尔吉斯斯坦.jpg"
+        "img": "https://flagcdn.com/w160/kg.webp"
     },
     {
         "index": 18,
         "name": "马尔代夫",
-        "name_en": "",
+        "name_en": "Maldives",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/马尔代夫.jpg"
+        "img": "https://flagcdn.com/w160/mv.webp"
     },
     {
         "index": 19,
         "name": "马来西亚",
-        "name_en": "",
+        "name_en": "Malaysia",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/马来西亚.jpg"
+        "img": "https://flagcdn.com/w160/my.webp"
     },
     {
         "index": 20,
         "name": "蒙古国",
-        "name_en": "",
+        "name_en": "Mongolia",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/蒙古国.jpg"
+        "img": "https://flagcdn.com/w160/mn.webp"
     },
     {
         "index": 21,
         "name": "沙特阿拉伯",
-        "name_en": "",
+        "name_en": "Saudi Arabia",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/沙特阿拉伯.jpg"
+        "img": "https://flagcdn.com/w160/sa.webp"
     },
     {
         "index": 22,
         "name": "文莱",
-        "name_en": "",
+        "name_en": "Brunei",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/文莱.jpg"
+        "img": "https://flagcdn.com/w160/bn.webp"
     },
     {
         "index": 23,
         "name": "老挝",
-        "name_en": "",
+        "name_en": "Laos",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/老挝.jpg"
+        "img": "https://flagcdn.com/w160/la.webp"
     },
     {
         "index": 24,
         "name": "日本",
-        "name_en": "",
+        "name_en": "Japan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/日本.jpg"
+        "img": "https://flagcdn.com/w160/jp.webp"
     },
     {
         "index": 25,
         "name": "土库曼斯坦",
-        "name_en": "",
+        "name_en": "Turkmenistan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/土库曼斯坦.jpg"
+        "img": "https://flagcdn.com/w160/tm.webp"
     },
     {
         "index": 26,
         "name": "哈萨克斯坦",
-        "name_en": "",
+        "name_en": "Kazakhstan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/哈萨克斯坦.jpg"
+        "img": "https://flagcdn.com/w160/kz.webp"
     },
     {
         "index": 27,
         "name": "巴勒斯坦",
-        "name_en": "",
+        "name_en": "Palestine",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/巴勒斯坦.jpg"
+        "img": "https://flagcdn.com/w160/ps.webp"
     },
     {
         "index": 28,
         "name": "塔吉克斯坦",
-        "name_en": "",
+        "name_en": "Tajikistan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/塔吉克斯坦.jpg"
+        "img": "https://flagcdn.com/w160/tj.webp"
     },
     {
         "index": 29,
         "name": "格鲁吉亚",
-        "name_en": "",
+        "name_en": "Georgia",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/格鲁吉亚.jpg"
+        "img": "https://flagcdn.com/w160/ge.webp"
     },
     {
         "index": 30,
         "name": "科威特",
-        "name_en": "",
+        "name_en": "Kuwait",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/科威特.jpg"
+        "img": "https://flagcdn.com/w160/kw.webp"
     },
     {
         "index": 31,
         "name": "叙利亚",
-        "name_en": "",
+        "name_en": "Syria",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/叙利亚.jpg"
+        "img": "https://flagcdn.com/w160/sy.webp"
     },
     {
         "index": 32,
         "name": "印度",
-        "name_en": "",
+        "name_en": "India",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/印度.jpg"
+        "img": "https://flagcdn.com/w160/in.webp"
     },
     {
         "index": 33,
         "name": "印度尼西亚",
-        "name_en": "",
+        "name_en": "Indonesia",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/印度尼西亚.jpg"
+        "img": "https://flagcdn.com/w160/id.webp"
     },
     {
         "index": 34,
         "name": "亚美尼亚",
-        "name_en": "",
+        "name_en": "Armenia",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/亚美尼亚.jpg"
+        "img": "https://flagcdn.com/w160/am.webp"
     },
     {
         "index": 35,
         "name": "阿富汗",
-        "name_en": "",
+        "name_en": "Afghanistan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/阿富汗.jpg"
+        "img": "https://flagcdn.com/w160/af.webp"
     },
     {
         "index": 36,
         "name": "乌兹别克斯坦",
-        "name_en": "",
+        "name_en": "Uzbekistan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/乌兹别克斯坦.jpg"
+        "img": "https://flagcdn.com/w160/uz.webp"
     },
     {
         "index": 37,
         "name": "斯里兰卡",
-        "name_en": "",
+        "name_en": "Sri Lanka",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/斯里兰卡.jpg"
+        "img": "https://flagcdn.com/w160/lk.webp"
     },
     {
         "index": 38,
         "name": "伊拉克",
-        "name_en": "",
+        "name_en": "Iraq",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/伊拉克.jpg"
+        "img": "https://flagcdn.com/w160/iq.webp"
     },
     {
         "index": 39,
         "name": "越南",
-        "name_en": "",
+        "name_en": "Vietnam",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/越南.jpg"
+        "img": "https://flagcdn.com/w160/vn.webp"
     },
     {
         "index": 40,
         "name": "伊朗",
-        "name_en": "",
+        "name_en": "Iran",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/伊朗.jpg"
+        "img": "https://flagcdn.com/w160/ir.webp"
     },
     {
         "index": 41,
         "name": "也门",
-        "name_en": "",
+        "name_en": "Yemen",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/也门.jpg"
+        "img": "https://flagcdn.com/w160/ye.webp"
     },
     {
         "index": 42,
         "name": "约旦",
-        "name_en": "",
+        "name_en": "Jordan",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/约旦.jpg"
+        "img": "https://flagcdn.com/w160/jo.webp"
     },
     {
         "index": 43,
         "name": "缅甸",
-        "name_en": "",
+        "name_en": "Myanmar",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/缅甸.jpg"
+        "img": "https://flagcdn.com/w160/mm.webp"
     },
     {
         "index": 44,
         "name": "孟加拉国",
-        "name_en": "",
+        "name_en": "Bangladesh",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/孟加拉国.jpg"
+        "img": "https://flagcdn.com/w160/bd.webp"
     },
     {
         "index": 45,
         "name": "新加坡",
-        "name_en": "",
+        "name_en": "Singapore",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/新加坡.jpg"
+        "img": "https://flagcdn.com/w160/sg.webp"
     },
     {
         "index": 46,
         "name": "以色列",
-        "name_en": "",
+        "name_en": "Israel",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/以色列.jpg"
+        "img": "https://flagcdn.com/w160/il.webp"
     },
     {
         "index": 47,
         "name": "塞浦路斯",
-        "name_en": "",
+        "name_en": "Cyprus",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/塞浦路斯.jpg"
+        "img": "https://flagcdn.com/w160/cy.webp"
     },
     {
         "index": 48,
         "name": "土耳其",
-        "name_en": "",
+        "name_en": "Turkey",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/土耳其.jpg"
+        "img": "https://flagcdn.com/w160/tr.webp"
     },
     {
         "index": 49,
         "name": "南越",
-        "name_en": "",
+        "name_en": "South Vietnam",
         "continent": "亚洲",
         "continent_id": 274,
-        "img": "assets/images/flags/南越.jpg"
+        "img": "https://flagcdn.com/w160/vn.webp"
     }
 ]

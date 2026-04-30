@@ -2,185 +2,185 @@
     {
         "index": 1,
         "name": "美国",
-        "name_en": "",
+        "name_en": "United States",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/美国.jpg"
+        "img": "https://flagcdn.com/w160/us.webp"
     },
     {
         "index": 2,
         "name": "加拿大",
-        "name_en": "",
+        "name_en": "Canada",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/加拿大.jpg"
+        "img": "https://flagcdn.com/w160/ca.webp"
     },
     {
         "index": 3,
         "name": "墨西哥",
-        "name_en": "",
+        "name_en": "Mexico",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/墨西哥.jpg"
+        "img": "https://flagcdn.com/w160/mx.webp"
     },
     {
         "index": 4,
         "name": "危地马拉",
-        "name_en": "",
+        "name_en": "Guatemala",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/危地马拉.jpg"
+        "img": "https://flagcdn.com/w160/gt.webp"
     },
     {
         "index": 5,
         "name": "伯利兹",
-        "name_en": "",
+        "name_en": "Belize",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/伯利兹.jpg"
+        "img": "https://flagcdn.com/w160/bz.webp"
     },
     {
         "index": 6,
         "name": "萨尔瓦多",
-        "name_en": "",
+        "name_en": "El Salvador",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/萨尔瓦多.jpg"
+        "img": "https://flagcdn.com/w160/sv.webp"
     },
     {
         "index": 7,
         "name": "洪都拉斯",
-        "name_en": "",
+        "name_en": "Honduras",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/洪都拉斯.jpg"
+        "img": "https://flagcdn.com/w160/hn.webp"
     },
     {
         "index": 8,
         "name": "巴拿马",
-        "name_en": "",
+        "name_en": "Panama",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/巴拿马.jpg"
+        "img": "https://flagcdn.com/w160/pa.webp"
     },
     {
         "index": 9,
         "name": "巴哈马",
-        "name_en": "",
+        "name_en": "Bahamas",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/巴哈马.jpg"
+        "img": "https://flagcdn.com/w160/bs.webp"
     },
     {
         "index": 10,
         "name": "古巴",
-        "name_en": "",
+        "name_en": "Cuba",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/古巴.jpg"
+        "img": "https://flagcdn.com/w160/cu.webp"
     },
     {
         "index": 11,
         "name": "牙买加",
-        "name_en": "",
+        "name_en": "Jamaica",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/牙买加.jpg"
+        "img": "https://flagcdn.com/w160/jm.webp"
     },
     {
         "index": 12,
         "name": "海地",
-        "name_en": "",
+        "name_en": "Haiti",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/海地.jpg"
+        "img": "https://flagcdn.com/w160/ht.webp"
     },
     {
         "index": 13,
         "name": "多米尼加",
-        "name_en": "",
+        "name_en": "Dominican Republic",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/多米尼加.jpg"
+        "img": "https://flagcdn.com/w160/do.webp"
     },
     {
         "index": 14,
         "name": "哥斯达黎加",
-        "name_en": "",
+        "name_en": "Costa Rica",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/哥斯达黎加.jpg"
+        "img": "https://flagcdn.com/w160/cr.webp"
     },
     {
         "index": 15,
         "name": "圣基茨和尼维斯",
-        "name_en": "",
+        "name_en": "Saint Kitts and Nevis",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/圣基茨和尼维斯.jpg"
+        "img": "https://flagcdn.com/w160/kn.webp"
     },
     {
         "index": 16,
         "name": "安提瓜和巴布达",
-        "name_en": "",
+        "name_en": "Antigua and Barbuda",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/安提瓜和巴布达.jpg"
+        "img": "https://flagcdn.com/w160/ag.webp"
     },
     {
         "index": 17,
         "name": "多米尼克",
-        "name_en": "",
+        "name_en": "Dominica",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/多米尼克.jpg"
+        "img": "https://flagcdn.com/w160/dm.webp"
     },
     {
         "index": 18,
         "name": "圣卢西亚",
-        "name_en": "",
+        "name_en": "Saint Lucia",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/圣卢西亚.jpg"
+        "img": "https://flagcdn.com/w160/lc.webp"
     },
     {
         "index": 19,
         "name": "圣文森特和格林纳丁斯",
-        "name_en": "",
+        "name_en": "Saint Vincent and the Grenadines",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/圣文森特和格林纳丁斯.jpg"
+        "img": "https://flagcdn.com/w160/vc.webp"
     },
     {
         "index": 20,
         "name": "巴巴多斯",
-        "name_en": "",
+        "name_en": "Barbados",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/巴巴多斯.jpg"
+        "img": "https://flagcdn.com/w160/bb.webp"
     },
     {
         "index": 21,
         "name": "格林纳达",
-        "name_en": "",
+        "name_en": "Grenada",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/格林纳达.jpg"
+        "img": "https://flagcdn.com/w160/gd.webp"
     },
     {
         "index": 22,
         "name": "特立尼达和多巴哥",
-        "name_en": "",
+        "name_en": "Trinidad and Tobago",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/特立尼达和多巴哥.jpg"
+        "img": "https://flagcdn.com/w160/tt.webp"
     },
     {
         "index": 23,
         "name": "尼加拉瓜",
-        "name_en": "",
+        "name_en": "Nicaragua",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "assets/images/flags/尼加拉瓜.jpg"
+        "img": "https://flagcdn.com/w160/ni.webp"
     }
 ]
